@@ -2,7 +2,7 @@
 serial config:
 Board: Arduiono Pro / Pro Mini
 Port:  tty.usbseriala400eMNr
-Programmer: USBtinyISP
+Programmer: GUNDOXX
 */
 
 // Definitionen
@@ -366,3 +366,4 @@ void Button() // check buttons for single and doubleclick
       //Serial.println("restart ");
     }
 }
+
